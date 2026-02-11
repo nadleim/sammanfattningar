@@ -169,7 +169,7 @@ Den andra uppsättningen innehåller den första, så svaret förenklas till: **
 sin²x = 1/2
 sin x = ±1/√2
 ```
-Lösningarna i [0, 2π) blir: **π/4, 3π/4, 5π/4, 7π/4**.
+Lösningarna i [0, 2π] blir: **π/4, 3π/4, 5π/4, 7π/4**.
 
 ---
 
